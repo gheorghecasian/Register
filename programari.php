@@ -1,6 +1,6 @@
 <?php
-$from="programari@facebook.ro"
-$email=$_POST['email'];
+$from=$_POST['email'];
+$email="casian_gheorghe@yahoo.com";
 $date=$_POST['date'];
 $time=$_POST['ora'];
 $tel=$_POST['tel'];
